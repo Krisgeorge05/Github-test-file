@@ -13,5 +13,10 @@ namespace Github_test_file
             Console.WriteLine("Hello World! One more modification!");
             Console.WriteLine("Hello World! Seocnd modification!");
         }
+
+        public void myMethod()
+        {
+            Console.WriteLine("My method");
+        }
     }
 }
