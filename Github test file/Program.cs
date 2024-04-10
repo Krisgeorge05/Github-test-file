@@ -11,7 +11,6 @@ namespace Github_test_file
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World! One more modification!");
-            Console.WriteLine("Hello World! Seocnd modification!");
         }
     }
 }
